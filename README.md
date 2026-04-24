@@ -30,7 +30,7 @@ Diseño de tarjetas de indicadores utilizando contenedores HTML para superar las
 
 ## 📈 Visualización del Dashboard
 
-![Dashboard Principal](Dashboard%20-Sales(dos).png)
+![Dashboard Principal](Dashboard%20-Sales%20(dos).png)
 
 
 *Vista del análisis de ventas 2012 con simulación activa.*
